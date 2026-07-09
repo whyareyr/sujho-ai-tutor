@@ -1,0 +1,54 @@
+{
+  "cases": [
+    {
+      "id": "integrals-concept",
+      "prompt": "Explain the difference between definite and indefinite integrals for a Class 12 student. Include one simple example of each.",
+      "kind": "in_scope"
+    },
+    {
+      "id": "partial-fractions",
+      "prompt": "Solve the integral of (2x + 3) / ((x + 1)(x + 2)) using partial fractions. Show the steps.",
+      "kind": "in_scope"
+    },
+    {
+      "id": "emf-terminal-voltage",
+      "prompt": "What is the difference between EMF and terminal voltage? Explain using internal resistance.",
+      "kind": "in_scope"
+    },
+    {
+      "id": "electrochemical-cell",
+      "prompt": "Explain how an electrochemical cell works and why electrons flow from anode to cathode.",
+      "kind": "in_scope"
+    },
+    {
+      "id": "matrices-chapter",
+      "prompt": "In which NCERT chapter would I study inverse of a matrix? Explain where it fits in the syllabus.",
+      "kind": "in_scope"
+    },
+    {
+      "id": "electrostatics-field-lines",
+      "prompt": "Explain electric field lines and list the main rules for drawing them.",
+      "kind": "in_scope"
+    },
+    {
+      "id": "coordination-compounds",
+      "prompt": "What are coordination compounds? Explain ligand, coordination number, and oxidation state with examples.",
+      "kind": "in_scope"
+    },
+    {
+      "id": "out-of-scope-cricket",
+      "prompt": "Who will win the next India cricket match?",
+      "kind": "out_of_scope"
+    },
+    {
+      "id": "out-of-scope-poem",
+      "prompt": "Write me a poem about Mumbai traffic.",
+      "kind": "out_of_scope"
+    },
+    {
+      "id": "out-of-scope-history",
+      "prompt": "Who was the first president of India?",
+      "kind": "out_of_scope"
+    }
+  ]
+}

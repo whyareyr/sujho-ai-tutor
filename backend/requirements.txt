@@ -1,0 +1,10 @@
+fastapi
+httpx
+openai
+pydantic
+python-dotenv
+uvicorn
+
+pymupdf
+numpy
+sentence-transformers

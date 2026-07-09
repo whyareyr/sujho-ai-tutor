@@ -1,0 +1,10 @@
+.vscode/
+.env
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+data/raw/
+data/generated/
+evals/reports/
